@@ -2,7 +2,7 @@
 
 A collection of single-file must-use plugins we install on most of the WordPress sites we build and maintain. Each file does exactly one thing: cleans up header output, closes off a feature the site will never use, tightens a security default, or smooths over a small admin irritation.
 
-Full write-up, with the reasoning behind each one: **[A Collection of Useful WordPress Must-Use (MU) Plugins](https://www.wpexplorer.com/wordpress-mu-plugins/)**
+Full write-up, with the reasoning behind each one: **[A Collection of Useful WordPress Must-Use (MU) Plugins](https://www.wpexplorer.com/wordpress-mu-plugins-collection/)**
 
 ## Installation
 
