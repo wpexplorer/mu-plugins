@@ -34,6 +34,7 @@ These also work as regular plugins (added in a folder with the same name as the 
 
 | File | What it does |
 | --- | --- |
+| `enable-automatic-core-updates.php` | Turns on automatic core updates for minor and security releases, overriding hosts that disable them. |
 | `disable-user-enumeration.php` | Closes username leaks via sitemaps, the REST API, author archives and login errors |
 | `disable-xmlrpc.php` | Disables XML-RPC, the pingback methods and the `X-Pingback` header |
 | `disable-application-passwords.php` | Turns off application passwords ⚠️ |
